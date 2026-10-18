@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "name": "Halloween Night",
+  "season": "halloween",
+  "message": "🎃 Happy Halloween! Boo! 👻",
+  "colors": {
+    "bg": "#0E0814",
+    "surface": "#150C1E",
+    "card": "#1E1229",
+    "line": "#3A2352",
+    "text": "#F3E9FF",
+    "muted": "#A38BC4",
+    "accent": "#FF7A00",
+    "accent2": "#9B59D0"
+  },
+  "effects": [
+    "stars",
+    "bats",
+    "ghosts",
+    "spider",
+    "pumpkins"
+  ]
+}

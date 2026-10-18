@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "theme": "Halloween.NPO",
+      "from": "10-24",
+      "to": "11-01"
+    },
+    {
+      "theme": "Winter.NPO",
+      "from": "12-01",
+      "to": "12-23"
+    },
+    {
+      "theme": "Christmas.NPO",
+      "from": "12-24",
+      "to": "12-27"
+    },
+    {
+      "theme": "NewYear2027.NPO",
+      "from": "2026-12-28",
+      "to": "2027-01-03"
+    },
+    {
+      "theme": "Avurudu.NPO",
+      "from": "2027-04-10",
+      "to": "2027-04-17"
+    },
+    {
+      "theme": "Vesak.NPO",
+      "from": "2027-05-15",
+      "to": "2027-05-24"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "Christmas",
+  "season": "christmas",
+  "message": "🎄 Merry Christmas!",
+  "colors": {
+    "bg": "#0C1410",
+    "surface": "#112019",
+    "card": "#172C22",
+    "line": "#2A4A39",
+    "text": "#F6F3EA",
+    "muted": "#9DB8A8",
+    "accent": "#E53935",
+    "accent2": "#43A047"
+  },
+  "effects": [
+    "snow",
+    "stars"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "Winter Frost",
+  "season": "winter",
+  "message": "",
+  "colors": {
+    "bg": "#0A1220",
+    "surface": "#0F1A2E",
+    "card": "#15243D",
+    "line": "#2A4166",
+    "text": "#EAF4FF",
+    "muted": "#93AECF",
+    "accent": "#5CC8FF",
+    "accent2": "#B3E5FC"
+  },
+  "effects": [
+    "snow",
+    "stars"
+  ]
+}

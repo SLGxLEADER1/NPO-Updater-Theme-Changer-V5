@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+  "version": 1,
+  "name": "NP Classic",
+  "season": "default",
+  "message": "",
+  "colors": {
+    "bg": "#0B0F1A",
+    "surface": "#101627",
+    "card": "#161D33",
+    "line": "#25304D",
+    "text": "#E8ECF8",
+    "muted": "#8A94B3",
+    "accent": "#6C5CE7",
+    "accent2": "#00B4FF"
+  },
+  "effects": []
+}
+=======
+=======
+>>>>>>> ac1ec7bb4a1d75ef67e3907c12e4b575129c1664
+﻿{
+  "version": 5,
+  "name": "Neon Night",
+  "season": "neon",
+  "message": "",
+  "colors": {
+    "bg": "#07060F",
+    "surface": "#0D0B1C",
+    "card": "#14112B",
+    "line": "#2B2457",
+    "text": "#F2EEFF",
+    "muted": "#8F86C9",
+    "accent": "#FF2BD6",
+    "accent2": "#00F0FF"
+  },
+  "effects": ["stars"]
+}
+<<<<<<< HEAD
+>>>>>>> ac1ec7bb4a1d75ef67e3907c12e4b575129c1664
+=======
+>>>>>>> ac1ec7bb4a1d75ef67e3907c12e4b575129c1664

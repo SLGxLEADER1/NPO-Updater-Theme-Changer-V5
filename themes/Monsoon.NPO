@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "name": "Monsoon Rain",
+  "season": "monsoon",
+  "message": "",
+  "colors": {
+    "bg": "#0A1218",
+    "surface": "#0F1B24",
+    "card": "#15262F",
+    "line": "#27414F",
+    "text": "#E3F0F5",
+    "muted": "#86A5B3",
+    "accent": "#2BB3A3",
+    "accent2": "#4FA3E0"
+  },
+  "effects": [
+    "rain"
+  ]
+}

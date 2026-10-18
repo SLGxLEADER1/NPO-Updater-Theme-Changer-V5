@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Aluth Avurudu",
+  "season": "avurudu",
+  "message": "🌞 සුබ අලුත් අවුරුද්දක් වේවා! Happy Sinhala & Tamil New Year 🌞",
+  "colors": {
+    "bg": "#1A0D08",
+    "surface": "#26130B",
+    "card": "#331A0F",
+    "line": "#5C3320",
+    "text": "#FFF1DC",
+    "muted": "#D1A98A",
+    "accent": "#FF8F00",
+    "accent2": "#E53935"
+  },
+  "effects": [
+    "sun",
+    "petals",
+    "fireworks"
+  ]
+}

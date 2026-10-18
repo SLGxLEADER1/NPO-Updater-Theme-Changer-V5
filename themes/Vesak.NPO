@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "name": "Vesak Glow",
+  "season": "vesak",
+  "message": "🪔 සුබ වෙසක් මංගල්‍යයක් වේවා! Happy Vesak 🪔",
+  "colors": {
+    "bg": "#0A1020",
+    "surface": "#0F1830",
+    "card": "#16213F",
+    "line": "#2A3A66",
+    "text": "#FFF8E1",
+    "muted": "#A9B6D8",
+    "accent": "#FFC107",
+    "accent2": "#4FC3F7"
+  },
+  "effects": [
+    "stars",
+    "kudu",
+    "skylanterns",
+    "lamps"
+  ]
+}

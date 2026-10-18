@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Happy New Year 2027",
+  "season": "newyear",
+  "message": "🎆 Happy New Year 2027! 🎆",
+  "colors": {
+    "bg": "#060814",
+    "surface": "#0B0F24",
+    "card": "#111735",
+    "line": "#27306B",
+    "text": "#F4F6FF",
+    "muted": "#8C97CC",
+    "accent": "#FFD54F",
+    "accent2": "#7C4DFF"
+  },
+  "effects": [
+    "stars",
+    "fireworks",
+    "confetti"
+  ]
+}
